@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 15px;
+}
+.product-content{
+    margin-left: 10px;
+}
+.product-tile{
+    color: blue;
+    font-weight: 700;
+}
+.button{
+    background-color: goldenrod;
+    border-radius: 5px;
+    padding: 4px 40px;
+    border: 1px solid orangered;
+    cursor: pointer;
+}
